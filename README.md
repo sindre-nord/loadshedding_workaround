@@ -1,2 +1,2 @@
 # loadshedding_workaround
-A way to prevent an sub-optimal UPS to shut down duren load shedding around Cape Town!
+A way to prevent an sub-optimal UPS to shut down during load shedding around Cape Town!
